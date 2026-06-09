@@ -1,4 +1,4 @@
-# Diabetes Healthcare Analytics Dashboard
+# Diabetes Healthcare Analytics Dashboard | Power BI Project
 
 ## Project Overview
 
