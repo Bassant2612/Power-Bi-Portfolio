@@ -12,6 +12,12 @@ This Power BI dashboard analyzes the impact of lifestyle, demographics, healthca
 * Data Modeling
 * Data Visualization
 
+## Key Metrics
+- Total Respondents: 578K
+- Diabetes Rate: 19%
+- Healthcare Coverage Rate: 95.15%
+- No Doctor Due to Cost Rate: 8.5%
+
 ## Key Dashboard Pages
 
 ### Cover Page
