@@ -41,7 +41,6 @@ This Power BI dashboard analyzes the impact of lifestyle, demographics, healthca
 ![Education & Income Analysis](05_Education_Income_Analysis.png)
 
 ### Advanced Analytics
-
 ![Advanced Analytics](06_Advanced_Analytics.png)
 
 ### Mental Health & Cost Analysis
